@@ -1,1 +1,1 @@
-https://img.shields.io/travis/USER/REPO.svg
+[![Build Status](https://travis-ci.org/antzdote/kick23.svg?branch=master)](https://travis-ci.org/antzdote/kick23)
