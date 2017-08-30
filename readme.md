@@ -1,1 +1,1 @@
-https://travis-ci.org/antzdote/kick23#
+https://img.shields.io/travis/USER/REPO.svg
